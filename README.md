@@ -25,5 +25,5 @@
 [<image aligin="left" alt="alfa-prime | VK" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"/>](https://vk.com/alex_uglin)
 
 #### Support:
-[<image width="140px" height="40px" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"/>](https://www.buymeacoffee.com/buymeacoffee.com/alfaprime)
+[<image width="140px" height="40px" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"/>](https://www.buymeacoffee.com/alfaprime)
 
