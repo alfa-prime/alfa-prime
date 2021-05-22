@@ -1,10 +1,13 @@
+[![Github](https://img.shields.io/github/followers/alfa-prime?label=Follow&style=social)](https://github.com/alfa-prime)
+![Github](https://visitor-badge.laobi.icu/badge?page_id=alfa-prime.alfa-prime)
+
 ## Hi :wave:, I'm Alexsandr Uglin
 
 - :muscle: I like to write code
 - ⚡ I am constantly learning new things
 - 🌱 I’m currently learning **Python, Django**
 
-#### Languages and Tools: 
+#### 🧰 Languages and Tools: 
 [<image width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>](https://www.python.org)
 [<image width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>](https://www.mysql.com/)
 [<image width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>](https://www.postgresql.org)
@@ -25,3 +28,4 @@
 
 #### Support:
 [<image width="140px" height="40px" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"/>](https://www.buymeacoffee.com/buymeacoffee.com/alfaprime)
+
