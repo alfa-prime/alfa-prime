@@ -13,7 +13,7 @@
 
 #### Connect with me:
 [<image aligin="left" alt="alfa-prime | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>](https://t.me/AbsoluteBender)
-[<image aligin="left" alt="alfa-prime | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail.svg"/>](https://t.me/AbsoluteBender)
+[<image aligin="left" alt="alfa-prime | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg"/>](https://t.me/AbsoluteBender)
 [<image aligin="left" alt="alfa-prime | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](https://www.instagram.com/uglin/?hl=ru)
 [<image aligin="left" alt="alfa-prime | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"/>](https://vk.com/alex_uglin)
 
