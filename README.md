@@ -24,6 +24,7 @@
 #### Connect with me:
 [<image aligin="left" alt="alfa-prime | Telegram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>](https://t.me/AbsoluteBender)
 [<image aligin="left" alt="alfa-prime | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](https://www.instagram.com/uglin/?hl=ru)
+[<image aligin="left" alt="alfa-prime | VK" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>](https://www.facebook.com/alfa.prime.one)
 [<image aligin="left" alt="alfa-prime | VK" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"/>](https://vk.com/alex_uglin)
 
 #### Support:
