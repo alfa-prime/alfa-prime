@@ -1,15 +1,17 @@
-<h1 align="center">Hi, I'm Alexsandr Uglin</h1>
-<h3 align="center">Python student from Russia</h3>
+#### Hi :wave:, I'm Alexsandr Uglin
+#### Python student from Russia
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfa-prime&label=Profile%20views&color=0e75b6&style=flat" alt="alfa-prime" /> </p>
 -->
 
+- :muscle: I like to write code
+
 - 🌱 I’m currently learning **Python, Django**
 
 - 📫 How to reach me **prime-alfa@mail.ru**, [**@AbsoluteBender**](https://t.me/AbsoluteBender)
 
-- :muscle: I like to write code
+
 
 
 <h3 align="left">Languages and Tools:</h3>
