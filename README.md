@@ -16,7 +16,7 @@
 [<image aligin="left" alt="alfa-prime | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"/>](https://vk.com/alex_uglin)
 [<image aligin="left" alt="alfa-prime | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>](https://vk.com/alex_uglin)
 - 📫 How to reach me **prime-alfa@mail.ru**, [**@AbsoluteBender**](https://t.me/AbsoluteBender)
-
+![VK](img/vk/svg)
 
 
 
