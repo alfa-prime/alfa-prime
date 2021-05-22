@@ -14,9 +14,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/alfaprime"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/alfaprime" /></a></p><br><br>
 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfa-prime&show_icons=true&locale=en" alt="alfa-prime" /></p>
 
-<!-- ### Hi, my name is Alex!
+ ### Hi, my name is Alex!
 
 #### I'm using 
 ![PyCharm](img/pycharm.svg)
