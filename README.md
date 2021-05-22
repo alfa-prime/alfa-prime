@@ -13,7 +13,7 @@
 
 #### Connect with me:
 [<image aligin="left" alt="alfa-prime | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](https://www.instagram.com/uglin/?hl=ru)
-
+[<image aligin="left" alt="alfa-prime | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"/>](https://vk.com/alex_uglin)
 - 📫 How to reach me **prime-alfa@mail.ru**, [**@AbsoluteBender**](https://t.me/AbsoluteBender)
 
 
