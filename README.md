@@ -12,7 +12,7 @@
 - :star2: I am constantly learning new things
 
 #### Connect with me:
-[<image aligin="left" alt="alfa-prime | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/instagram.svg"/>][imstagram]
+[<image aligin="left" alt="alfa-prime | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 
 - 📫 How to reach me **prime-alfa@mail.ru**, [**@AbsoluteBender**](https://t.me/AbsoluteBender)
 
