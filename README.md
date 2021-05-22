@@ -1,6 +1,5 @@
 ## Hi :wave:, I'm Alexsandr Uglin
 ### Python student from Russia
----
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfa-prime&label=Profile%20views&color=0e75b6&style=flat" alt="alfa-prime" /> </p>
