@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, Django**
 
-- 📫 How to reach me **prime-alfa@mail.ru**
+- 📫 How to reach me **prime-alfa@mail.ru**, [!Telegram](https://t.me/AbsoluteBender)
 
 
 <h3 align="left">Languages and Tools:</h3>
