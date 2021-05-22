@@ -19,7 +19,7 @@
 
 ![VK](img/vk.svg)
 
-![PyCharm](img/pycharm.svg)
+![Instagram](img/instagram.svg)
 
 [PyCharm](img/pycharm.svg)
 
