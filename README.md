@@ -17,7 +17,7 @@
 [<image aligin="left" alt="alfa-prime | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](https://www.instagram.com/uglin/?hl=ru)
 [<image aligin="left" alt="alfa-prime | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"/>](https://vk.com/alex_uglin)
 
-
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=(image/pycharm.svg)&logoColor=white&color=2bbc8a)
 
 
 <h3 align="left">Languages and Tools:</h3>
