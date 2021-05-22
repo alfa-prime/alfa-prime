@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Python, Django**
 
+- :star2: I am constantly learning new things
+
 - 📫 How to reach me **prime-alfa@mail.ru**, [**@AbsoluteBender**](https://t.me/AbsoluteBender)
 
 
