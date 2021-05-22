@@ -1,6 +1,3 @@
-[![Github](https://img.shields.io/github/followers/alfa-prime?label=Follow&style=social)](https://github.com/alfa-prime)
-![Github](https://visitor-badge.laobi.icu/badge?page_id=alfa-prime.alfa-prime)
-
 ## Hi :wave:, I'm Alexsandr Uglin
 
 - :muscle: I like to write code
