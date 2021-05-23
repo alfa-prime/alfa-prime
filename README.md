@@ -16,7 +16,8 @@
 [<image width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"/>](https://gulpjs.com)
 
 #### I'm using 
-![PyCharm](img/pycharm.svg)
+[<image width="40px" src="img/pycharm_01.svg"/>](dd)
+[<image width="40px" src="img/vscode.svg"/>](dd)
 
 #### Stats:
 <a href="https://github.com/alfa-prime/github-readme-stats">
