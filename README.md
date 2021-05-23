@@ -15,7 +15,7 @@
 [<image width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>](https://getbootstrap.com)
 [<image width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"/>](https://gulpjs.com)
 
-#### I'm using 
+#### I'm using:
 [<image width="40px" src="img/pycharm_01.svg"/>](dd)
 [<image width="40px" src="img/vscode.svg"/>](dd)
 
