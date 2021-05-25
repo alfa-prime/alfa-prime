@@ -16,8 +16,8 @@
 [<image width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"/>](https://gulpjs.com)
 
 #### ✍️ I'm using:
-[<image width="40px" src="img/pycharm_01.svg"/>](dd)
-[<image width="40px" src="img/vscode.svg"/>](dd)
+[<image width="40" hspace="3" src="img/pycharm_01.svg"/>](dd)
+[<image width="40" hspace="3" src="img/vscode.svg"/>](dd)
 
 #### 📊 Stats:
 <a href="https://github.com/alfa-prime/github-readme-stats">
@@ -28,9 +28,9 @@
 </a>
 
 #### 📞 Connect with me:
-[<image aligin="left" alt="alfa-prime | Telegram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>](https://t.me/AbsoluteBender)
-[<image aligin="left" alt="alfa-prime | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](https://www.instagram.com/uglin/?hl=ru)
-[<image aligin="left" alt="alfa-prime | VK" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>](https://www.facebook.com/alfa.prime.one)
+[<image alt="Telegram" width="40" hspace="3" src="img/telegram.svg"/>](https://t.me/AbsoluteBender)
+[<image alt="Instagram" width="40" hspace="3" src="img/instagram.svg"/>](https://www.instagram.com/uglin/?hl=ru)
+[<image alt="VK" width="40" hspace="3" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>](https://www.facebook.com/alfa.prime.one)
 [<image aligin="left" alt="alfa-prime | VK" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"/>](https://vk.com/alex_uglin)
 
 
