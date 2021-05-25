@@ -30,8 +30,8 @@
 #### 📞 Connect with me:
 [<image alt="Telegram" width="40" hspace="3" src="img/telegram.svg"/>](https://t.me/AbsoluteBender)
 [<image alt="Instagram" width="40" hspace="3" src="img/instagram.svg"/>](https://www.instagram.com/uglin/?hl=ru)
-[<image alt="VK" width="40" hspace="3" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>](https://www.facebook.com/alfa.prime.one)
-[<image aligin="left" alt="alfa-prime | VK" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"/>](https://vk.com/alex_uglin)
+[<image alt="Facebook" width="40" hspace="3" src="img/facebook.svg"/>](https://www.facebook.com/alfa.prime.one)
+[<image alt="VK" width="40" hspace="3" src="img/vk.svg"/>](https://vk.com/alex_uglin)
 
 
 <!-- #### Support:
