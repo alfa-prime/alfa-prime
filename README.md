@@ -21,7 +21,7 @@
 
 #### Stats:
 <a href="https://github.com/alfa-prime/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alfa-prime&count_private=true&show_icons=true&hide_title=true&hide_rank=true&line_height=26" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alfa-prime&count_private=true&show_icons=true&hide_title=true&hide_rank=true&line_height=30" />
 </a>
 <a href="https://github.com/alfa-prime/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=alfa_prime&v=2" />
